@@ -1,14 +1,14 @@
 {
-  "name": "webpack-salesforceboilerplate",
-  "version": "1.0.0",
+  "name": "sflds-react-boilerplate",
+  "version": "0.0.1",
   "description": "Boilerplate code for React apps using the Lightning design system",
   "main": "src/index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production"
   },
-  "author": "Daniele Piccone <mild.taste@gmail.com>",
-  "license": "BSD-3-Clause",
+  "author": "Marcelo Marsson <marsson@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "@salesforce-ux/design-system": "^2.25.6",
     "@salesforce/babel-preset-design-system-react": "^3.0.0",
